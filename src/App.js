@@ -13,7 +13,7 @@ class App extends Component {
 
 class App extends Component {
   state = {
-    characters: [],
+    characters: ['hi'],
   }
 }
 
